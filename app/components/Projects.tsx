@@ -9,7 +9,7 @@ export default function Projects() {
             <div className="flex flex-wrap justify-center font-handwritten text-xl">
                 <a href="https://example.com/project1" target="_blank" rel="noopener noreferrer" className="m-4 p-4 bg-white shadow-lg rounded-lg text-center w-full md:w-1/3 hover:shadow-xl transition-shadow duration-300">
                     <h3 className="font-bold text-[24px] text-[#47352C]">My Portfolio Website</h3>
-                    <img src="/images/project1.png" alt="Project 1" className="w-full h-auto rounded-lg mb-4" />
+                    <img src="/images/Project1.png" alt="Project 1" className="w-full h-auto rounded-lg mb-4" />
                     <p className="text-[20px] text-black"> This is my personal portfolio website where I showcase my skills, projects, and experience. Built with modern web technologies like React and Next.js, it features a clean and responsive design, smooth animations, and an intuitive user interface. The website serves as a platform to highlight my work and connect with potential clients and employers.</p>
                 </a>
                 <a href="https://drive.google.com/file/d/166kQouYSRZdlQvK0OfccbC4Cp6fcTgif/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="m-4 p-4 bg-white shadow-lg rounded-lg text-center w-full md:w-1/3 hover:shadow-xl transition-shadow duration-300">
