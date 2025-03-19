@@ -16,7 +16,7 @@ This is my personal portfolio website built using **Next.js, Tailwind CSS, and T
 ## 🚀 Getting Started
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/bhumi-garg/portfolio.git
+git clone https://github.com/bhumigargg/my_portfolio.git
 cd portfolio
 ```
 
