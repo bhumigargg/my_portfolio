@@ -16,7 +16,7 @@ This is my personal portfolio website built using **Next.js, Tailwind CSS, and T
 ## 🚀 Getting Started
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/bhumi-garg/portfolio.git
+git clone https://github.com/bhumigargg/my_portfolio.git
 cd portfolio
 ```
 
@@ -38,13 +38,8 @@ vercel --prod
 ```
 Or push changes to the connected GitHub repository for automatic deployment.
 
-## 📸 Screenshots
-```md
-_Add screenshots of your portfolio here_
-```
-
 ## 📬 Contact
-For collaborations or inquiries, reach me at **[your-email@example.com](mailto:your-email@example.com)** or connect on [LinkedIn](https://linkedin.com/in/bhumi-garg).
+For collaborations or inquiries, reach me at **[bhumigarg012@gmail.com](mailto:bhumigarg012@gmail.com)** or connect on [LinkedIn](https://www.linkedin.com/in/bhumi-garg-0437a7295/).
 
 ## ⭐ Contributing
 ```md
