@@ -29,19 +29,12 @@ export default function Home() {
             CONTACT ME
         </Link>
         <Link href="https://drive.google.com/file/d/160YFwVBf9pD63v2peT3Vf_WAIo8_6twb/view?usp=sharing">
-<<<<<<< HEAD
-        <div className="absolute w-[125px] h-[50px] left-[1184.5px] top-[40px] border border-black shadow-[10px_11px_4px_rgba(0,0,0,0.1)] active:scale-95">
-          <div className="absolute w-[125px] h-[55px] left-0 top-0 flex items-center justify-center text-center font-handwritten text-[32px] leading-[59px] text-[#1E1E1E] hover:text-amber-700 cursor-pointer">RESUME</div>
-        </div>
-        </Link>
-=======
   <div className="absolute w-[125px] h-[50px] left-[1184.5px] top-[40px] border border-black shadow-[10px_11px_4px_rgba(0,0,0,0.1)] active:scale-95">
     <div className="absolute w-[125px] h-[55px] left-0 top-0 flex items-center justify-center text-center font-handwritten text-[32px] leading-[59px] text-[#1E1E1E] hover:text-amber-700 cursor-pointer">
       RESUME
     </div>
   </div>
 </Link>
->>>>>>> e04f4b21c54e233d957336ba3d8ce1ca04855a0c
         <StopMotion />
         <AnimatedText />
         <div className="absolute bottom-0 w-full text-right px-6 font-sans text-[32px] leading-[59px] text-[#1E1E1E] mb-4">
