@@ -28,7 +28,7 @@ export default function Home() {
         <Link href="#contact" className="text-[#1E1E1E] font-handwritten absolute w-[219px] h-[59px] left-0 top-[120px] text-[32px] leading-[122.25%] mx-[125px] hover:text-amber-700 cursor-pointer active:scale-95">
             CONTACT ME
         </Link>
-        <Link href="https://drive.google.com/file/d/160YFwVBf9pD63v2peT3Vf_WAIo8_6twb/view?usp=sharing">
+        <Link href="https://drive.google.com/file/d/1j0Tt3jJPePvtNnPEpsTVej8gLsoP-NJo/view?usp=sharing">
   <div className="absolute w-[125px] h-[50px] left-[1184.5px] top-[40px] border border-black shadow-[10px_11px_4px_rgba(0,0,0,0.1)] active:scale-95">
     <div className="absolute w-[125px] h-[55px] left-0 top-0 flex items-center justify-center text-center font-handwritten text-[32px] leading-[59px] text-[#1E1E1E] hover:text-amber-700 cursor-pointer">
       RESUME

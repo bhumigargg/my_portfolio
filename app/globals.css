@@ -5,3 +5,7 @@
 body{
   
 }
+
+.custom-cursor {
+    cursor: url('/images/pointer.png'), auto; /* Replace with your custom cursor image */
+}
